@@ -150,11 +150,12 @@ header {
 }
 
 .content-section__list {
-    display: flex;
-    flex-direction: column;
-    row-gap: 16px;
-    padding-left: 15px;
+        display: flex;
+        flex-direction: column;
+        row-gap: 16px;
+        padding-left: 15px;
 }
+
 
 .content-section__list-item {
     font-family: "Inter";
