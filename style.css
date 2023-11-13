@@ -153,7 +153,7 @@ header {
     display: flex;
     flex-direction: column;
     row-gap: 16px;
-    padding-left: 15px;   
+    padding-left: 15px;
 }
 
 .content-section__list-item {
@@ -250,7 +250,7 @@ footer {
 }
 
 .footer__links-item:hover {
-    opacity: 0.7;  
+    opacity: 0.7;
 }
 
 .footer__links-item:active {
